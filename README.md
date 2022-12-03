@@ -3,10 +3,10 @@
 ## Youtube_clone App
 (https://youtubeclone-cb.netlify.app)
 
-###Tools
-> React
-> JavaScript
-> RapidAPI
+### Tools
+- React
+- JavaScript
+- RapidAPI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
