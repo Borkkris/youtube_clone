@@ -1,12 +1,15 @@
 # Getting Started with Create React App
 
 ## Youtube_clone App
-(https://youtubeclone-cb.netlify.app)
+[youtube_clone on Netlify](https://youtubeclone-cb.netlify.app)
 
 ### Tools
-- React
-- JavaScript
-- RapidAPI
+* <code>React</code>
+* <code>JavaScript</code>
+* <code>RapidAPI</code>
+
+### Browser
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
