@@ -9,11 +9,8 @@
 * <code>RapidAPI</code>
 
 ### Browser
-<<<<<<< HEAD
 ![Screenshot StartScreen](public/youtube_clone.png "Screenshot YouTube_clone")
 
-=======
->>>>>>> 6545bf0c0f36ad243deb91803eeb7718df6948c4
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
