@@ -9,7 +9,7 @@
 * <code>RapidAPI</code>
 
 ### Browser
-![Screenshot StartScreen](public/youtube_clone.png "Screenshot YouTube_clone")
+![Screenshot YouTube_clone](public/youtube_clone.png "Screenshot YouTube_clone")
 
 
 
