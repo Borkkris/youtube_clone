@@ -11,8 +11,6 @@
 ### Browser
 ![Screenshot YouTube_clone](public/youtube_clone.png "Screenshot YouTube_clone")
 
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
